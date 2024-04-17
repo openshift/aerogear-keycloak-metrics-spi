@@ -1,3 +1,20 @@
+build
+.gradle
+*.iml
+.idea
+.fleet
+out/
+bin/
+.project
+.settings/org.eclipse.buildship.core.prefs
+.project
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.editorconfig
+/dependency-reduced-pom.xml
+target
+
 # Compiled class file
 *.class
 
