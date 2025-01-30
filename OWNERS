@@ -1,9 +1,13 @@
 reviewers:
 - srep-functional-leads
 - srep-region-leads
-- robotmaxtron
+- SteveHNH
+- fsferraz-rh
+- theautoroboto
 approvers:
 - srep-functional-leads
 - srep-region-leads
 - srep-team-leads
-- robotmaxtron
+- SteveHNH
+- fsferraz-rh
+- theautoroboto
